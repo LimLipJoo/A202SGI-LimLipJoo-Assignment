@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593084676314",
+    "firebase_url": "https://takeawaysystem-e20db.firebaseio.com",
+    "project_id": "takeawaysystem-e20db",
+    "storage_bucket": "takeawaysystem-e20db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593084676314:android:f045e397e3bc4d9b0ecde3",
+        "android_client_info": {
+          "package_name": "com.example.silen.takeawaysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593084676314-ecn6nuebhej6b5edcqj2g7ehm08p8c48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.silen.takeawaysystem",
+            "certificate_hash": "1dc169391357017f72e6fdd8ad11ee8695981439"
+          }
+        },
+        {
+          "client_id": "593084676314-6md25d4sdkm8pfi2qiu7bmks0ith0sq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpBiYW_AtoaH3srPY_zme-CV30-6jjiDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593084676314-6md25d4sdkm8pfi2qiu7bmks0ith0sq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
